@@ -29,16 +29,16 @@ Extentions: Rounded Cornor, KDE Modern Clock, PlasMusic,...<br>
 
 ###
 
-<img align="left" height="160" src="https://github.com/kupidayo/dotfile/blob/main/pic%202.png?raw=true"  />
+<img align="left" height="150" src="https://github.com/kupidayo/dotfile/blob/main/pic%202.png?raw=true"  />
 
 ###
 
-<img align="right" height="160" src="https://github.com/kupidayo/dotfile/blob/main/pic%203.png?raw=true"  />
+<img align="right" height="150" src="https://github.com/kupidayo/dotfile/blob/main/pic%203.png?raw=true"  />
 
 ###
 
 <div align="center">
-  <img height="160" src="https://github.com/kupidayo/dotfile/blob/main/pic%204.png?raw=true"  />
+  <img height="150" src="https://github.com/kupidayo/dotfile/blob/main/pic%204.png?raw=true"  />
 </div>
 
 
