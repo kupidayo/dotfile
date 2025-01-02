@@ -1,0 +1,6 @@
+2025/01/02-01:35:02.354 5a7 Reusing MANIFEST /home/kupi/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/01/02-01:35:02.362 5a7 Recovering log #104
+2025/01/02-01:35:02.363 5a7 Reusing old log /home/kupi/.config/vesktop/sessionData/Local Storage/leveldb/000104.log 
+2025/01/02-01:36:02.889 5a8 Level-0 table #109: started
+2025/01/02-01:36:02.894 5a8 Level-0 table #109: 103519 bytes OK
+2025/01/02-01:36:02.896 5a8 Delete type=0 #104

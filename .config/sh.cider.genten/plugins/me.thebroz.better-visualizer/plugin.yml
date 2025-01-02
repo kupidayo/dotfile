@@ -1,0 +1,12 @@
+ce_prefix: braqd86qd6ssulc1hn0u6ucb
+identifier: me.thebroz.better-visualizer
+name: Better Visualizer
+description: Replaces the default visualizer with opne that reacts to your
+  music. Requires Cider Audio.
+version: 0.0.4
+author: thebroz
+repo: https://github.com/the-broz/better-visualizer
+entry:
+  plugin.js:
+    type: main
+marketplaceID: 30

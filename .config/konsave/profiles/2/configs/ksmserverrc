@@ -1,0 +1,10 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=104c4f510000173571581100000011330003
+count=1
+program1=/tmp/.mount_NextclQANZKj/AppRun.wrapped
+restartCommand1=/tmp/.mount_NextclQANZKj/AppRun.wrapped,-session,104c4f510000173571581100000011330003_1735729012_504999,-name,AppRun.wrapped
+restartStyleHint1=0
+userId1=kupi

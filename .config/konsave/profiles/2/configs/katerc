@@ -1,0 +1,37 @@
+[General]
+Days Meta Infos=30
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+Show Url Nav Bar=true
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Material You Dark
+Line Height Multiplier=1
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Text Font=Hack,10,-1,7,400,0,0,0,0,0,0,0,0,0,0,1
+Text Font Features=
+Word Wrap Marker=false
+
+[KTextEditor::Search]
+Search History=endeavouOS,endeavourOS
+
+[MainWindow]
+1745x982 screen: Window-Maximized=true
+1920x1080 screen: Window-Maximized=true
+
+[filetree]
+editShade=207,194,241
+listMode=false
+middleClickToClose=false
+shadingEnabled=true
+showCloseButton=false
+showFullPathOnRoots=false
+showToolbar=true
+sortRole=0
+viewShade=218,162,249

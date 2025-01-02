@@ -1,0 +1,28 @@
+{
+    "checksum": "e7c817766b382da21641a00a3ecaf6f0",
+    "wallpaper": "/home/kupi/.config/wpg/wallpapers/neutral.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#362417",
+        "foreground": "#ccc8c5",
+        "cursor": "#ccc8c5"
+    },
+    "colors": {
+        "color0": "#362417",
+        "color1": "#B7A690",
+        "color2": "#BBB1A1",
+        "color3": "#C49F89",
+        "color4": "#C4B198",
+        "color5": "#C4B7A6",
+        "color6": "#C9C6BD",
+        "color7": "#ccc8c5",
+        "color8": "#7d6f66",
+        "color9": "#B7A690",
+        "color10": "#BBB1A1",
+        "color11": "#C49F89",
+        "color12": "#C4B198",
+        "color13": "#C4B7A6",
+        "color14": "#C9C6BD",
+        "color15": "#ccc8c5"
+    }
+}

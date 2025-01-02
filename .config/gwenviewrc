@@ -1,0 +1,36 @@
+[General]
+LastTargetDir[$e]=file:$HOME/.themes
+LastUsedVersion=210800
+SideBarPage=operations
+UrlNavigatorIsEditable=true
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Emu otori.jpg
+File10[$e]=$HOME/Downloads/kupi.gif
+File2[$e]=$HOME/Downloads/ascii.png
+File3[$e]=$HOME/.config/neofetch/img/ascii.png
+File4[$e]=$HOME/Downloads/b5079d66-c8a9-4115-b5ba-507369bcfc4a copy.png
+File5[$e]=$HOME/Downloads/b5079d66-c8a9-4115-b5ba-507369bcfc4a.png
+File6[$e]=$HOME/Downloads/1735649239058.png
+File7[$e]=$HOME/Downloads/susssy.png
+File8[$e]=$HOME/Downloads/pic1.png
+File9[$e]=$HOME/Downloads/wp11507155-emu-otori-wallpapers.jpg
+Name1[$e]=Emu otori.jpg
+Name10[$e]=kupi.gif
+Name2[$e]=ascii.png
+Name3[$e]=ascii.png
+Name4[$e]=b5079d66-c8a9-4115-b5ba-507369bcfc4a copy.png
+Name5[$e]=b5079d66-c8a9-4115-b5ba-507369bcfc4a.png
+Name6[$e]=1735649239058.png
+Name7[$e]=susssy.png
+Name8[$e]=pic1.png
+Name9[$e]=wp11507155-emu-otori-wallpapers.jpg
+
+[SideBar]
+InformationSplitterSizes=220,255
+IsVisible ViewMode=true
+SideBarSplitterSizes=210,1534

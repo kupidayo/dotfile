@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=lunarclient
+Comment=lunarclientstartup script
+Exec=/tmp/.mount_Lunar qypoWB/lunarclient --hidden
+StartupNotify=false
+Terminal=false

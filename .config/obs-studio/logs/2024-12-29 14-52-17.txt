@@ -1,0 +1,171 @@
+14:52:17.049: ================================
+14:52:17.049: Warning: OBS is already running!
+14:52:17.049: ================================
+14:52:17.049: User is now running multiple instances of OBS!
+14:52:17.049: Platform: Wayland
+14:52:17.049: CPU Name: AMD Ryzen 7 7435HS
+14:52:17.049: CPU Speed: 2017.845MHz
+14:52:17.050: Physical Cores: 8, Logical Cores: 16
+14:52:17.050: Physical Memory: 23718MB Total, 8415MB Free
+14:52:17.050: Kernel Version: Linux 6.6.67-1-lts
+14:52:17.050: Distribution: "EndeavourOS" Unknown
+14:52:17.050: Desktop Environment: KDE (KDE)
+14:52:17.050: Session Type: wayland
+14:52:17.050: Qt Version: 6.8.1 (runtime), 6.8.1 (compiled)
+14:52:17.050: Portable mode: false
+14:52:17.067: OBS 31.0.0 (linux)
+14:52:17.067: ---------------------------------
+14:52:17.068: ---------------------------------
+14:52:17.068: audio settings reset:
+14:52:17.068: 	samples per sec: 48000
+14:52:17.068: 	speakers:        2
+14:52:17.068: 	max buffering:   960 milliseconds
+14:52:17.068: 	buffering type:  dynamically increasing
+14:52:17.069: ---------------------------------
+14:52:17.069: Initializing OpenGL...
+14:52:17.069: Using EGL/Wayland
+14:52:17.069: Initialized EGL 1.5
+14:52:17.073: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 4050 Laptop GPU/PCIe/SSE2
+14:52:17.073: OpenGL loaded successfully, version 3.3.0 NVIDIA 565.77, shading language 3.30 NVIDIA via Cg compiler
+14:52:17.093: ---------------------------------
+14:52:17.094: video settings reset:
+14:52:17.094: 	base resolution:   1920x1080
+14:52:17.094: 	output resolution: 1280x720
+14:52:17.094: 	downscale filter:  Bicubic
+14:52:17.094: 	fps:               30/1
+14:52:17.094: 	format:            NV12
+14:52:17.094: 	YUV mode:          Rec. 709/Partial
+14:52:17.094: NV12 texture support enabled
+14:52:17.094: P010 texture support not available
+14:52:17.094: Audio monitoring device:
+14:52:17.094: 	name: Default
+14:52:17.094: 	id: default
+14:52:17.094: ---------------------------------
+14:52:17.104: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:52:17.114: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:52:17.123: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:52:17.123: Failed to initialize module 'decklink.so'
+14:52:17.267: [pipewire] Available capture sources:
+14:52:17.267: [pipewire]     - Monitor source
+14:52:17.267: [pipewire]     - Window source
+14:52:17.295: v4l2loopback not installed, virtual camera not registered
+14:52:17.339: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+14:52:17.339: FFmpeg VAAPI H264 encoding not supported
+14:52:17.339: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+14:52:17.339: FFmpeg VAAPI AV1 encoding not supported
+14:52:17.340: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+14:52:17.340: FFmpeg VAAPI HEVC encoding not supported
+14:52:17.927: [obs-nvenc] NVENC version: 12.1 (compiled) / 12.2 (driver), CUDA driver version: 12.70, AV1 supported: true
+14:52:18.047: ---------------------------------
+14:52:18.047:   Loaded Modules:
+14:52:18.047:     text-freetype2.so
+14:52:18.047:     rtmp-services.so
+14:52:18.047:     obs-x264.so
+14:52:18.047:     obs-webrtc.so
+14:52:18.047:     obs-vst.so
+14:52:18.047:     obs-transitions.so
+14:52:18.047:     obs-qsv11.so
+14:52:18.047:     obs-outputs.so
+14:52:18.047:     obs-nvenc.so
+14:52:18.047:     obs-libfdk.so
+14:52:18.047:     obs-filters.so
+14:52:18.047:     obs-ffmpeg.so
+14:52:18.047:     linux-v4l2.so
+14:52:18.047:     linux-pulseaudio.so
+14:52:18.047:     linux-pipewire.so
+14:52:18.047:     linux-jack.so
+14:52:18.047:     linux-capture.so
+14:52:18.047:     linux-alsa.so
+14:52:18.047:     image-source.so
+14:52:18.047:     frontend-tools.so
+14:52:18.047:     decklink-output-ui.so
+14:52:18.047:     decklink-captions.so
+14:52:18.047: ---------------------------------
+14:52:18.047: ---------------------------------
+14:52:18.047: Available Encoders:
+14:52:18.047:   Video Encoders:
+14:52:18.047: 	- ffmpeg_svt_av1 (SVT-AV1)
+14:52:18.047: 	- ffmpeg_aom_av1 (AOM AV1)
+14:52:18.047: 	- obs_nvenc_h264_tex (NVIDIA NVENC H.264)
+14:52:18.047: 	- obs_nvenc_hevc_tex (NVIDIA NVENC HEVC)
+14:52:18.047: 	- obs_nvenc_av1_tex (NVIDIA NVENC AV1)
+14:52:18.047: 	- obs_x264 (x264)
+14:52:18.047:   Audio Encoders:
+14:52:18.047: 	- ffmpeg_aac (FFmpeg AAC)
+14:52:18.047: 	- ffmpeg_opus (FFmpeg Opus)
+14:52:18.047: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+14:52:18.047: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+14:52:18.047: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+14:52:18.047: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+14:52:18.047: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+14:52:18.047: 	- libfdk_aac (libfdk AAC)
+14:52:18.047: ==== Startup complete ===============================================
+14:52:18.071: All scene data cleared
+14:52:18.072: ------------------------------------------------
+14:52:18.078: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+14:52:18.079: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:52:18.079: pulse-input: Started recording from 'alsa_output.pci-0000_05_00.6.analog-stereo.monitor' (default)
+14:52:18.079: [Loaded global audio device]: 'Desktop Audio'
+14:52:18.079: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+14:52:18.079: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:52:18.079: pulse-input: Started recording from 'alsa_input.pci-0000_05_00.6.analog-stereo' (default)
+14:52:18.079: [Loaded global audio device]: 'Mic/Aux'
+14:52:18.079: PipeWire initialized
+14:52:18.080: Switched to scene 'Scene'
+14:52:18.080: ------------------------------------------------
+14:52:18.080: Loaded scenes:
+14:52:18.080: - scene 'Scene':
+14:52:18.080:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+14:52:18.080: ------------------------------------------------
+14:52:18.183: [pipewire] Screencast session created
+14:52:18.259: [pipewire] Asking for monitor and window
+14:52:18.284: [pipewire] source selected, setting up screencast
+14:52:18.296: [pipewire] Server version: 1.2.7
+14:52:18.296: [pipewire] Library version: 1.2.7
+14:52:18.296: [pipewire] Header version: 1.2.7
+14:52:18.296: [pipewire] Created stream 0x5b231bf68610
+14:52:18.296: [pipewire] Stream 0x5b231bf68610 state: "connecting" (error: none)
+14:52:18.296: [pipewire] Playing stream 0x5b231bf68610
+14:52:18.297: [pipewire] Stream 0x5b231bf68610 state: "paused" (error: none)
+14:52:18.304: [pipewire] Negotiated format:
+14:52:18.304: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:52:18.304: [pipewire]     Modifier: 0x0
+14:52:18.304: [pipewire]     Size: 1920x1080
+14:52:18.304: [pipewire]     Framerate: 0/1
+14:52:18.304: [pipewire] Negotiated format:
+14:52:18.304: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+14:52:18.304: [pipewire]     Modifier: 0x300000000606014
+14:52:18.304: [pipewire]     Size: 1920x1080
+14:52:18.304: [pipewire]     Framerate: 0/1
+14:52:18.309: [pipewire] Stream 0x5b231bf68610 state: "streaming" (error: none)
+14:52:18.647: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+14:52:18.647: 
+14:52:21.858: [obs-nvenc: 'simple_video_stream'] settings:
+14:52:21.858: 	codec:        H264
+14:52:21.858: 	rate_control: CBR
+14:52:21.858: 	bitrate:      2500
+14:52:21.858: 	keyint:       250
+14:52:21.858: 	preset:       p5
+14:52:21.858: 	tuning:       hq
+14:52:21.858: 	multipass:    qres
+14:52:21.858: 	profile:      high
+14:52:21.858: 	width:        1280
+14:52:21.858: 	height:       720
+14:52:21.858: 	b-frames:     2
+14:52:21.858: 	b-ref-mode:   0
+14:52:21.858: 	lookahead:    true (8 frames)
+14:52:21.858: 	aq:           true
+14:52:21.858: 
+14:52:21.915: libfdk_aac encoder created
+14:52:21.915: libfdk_aac bitrate: 160, channels: 2
+14:52:21.917: ==== Recording Start ===============================================
+14:52:21.917: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/kupi/2024-12-29 14-52-21.mkv'...
+14:54:38.534: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/kupi/2024-12-29 14-52-21.mkv' stopped
+14:54:38.534: Output 'simple_file_output': stopping
+14:54:38.535: Output 'simple_file_output': Total frames output: 4080
+14:54:38.535: Output 'simple_file_output': Total drawn frames: 4097 (4099 attempted)
+14:54:38.535: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+14:54:38.535: Video stopped, number of skipped frames due to encoding lag: 2/4097 (0.0%)
+14:54:38.535: ==== Recording Stop ================================================
+14:54:38.769: libfdk_aac encoder destroyed
+14:57:18.723: [rtmp-services plugin] Remote update of URL "https://obsproject.com/obs2_update/rtmp-services/v5/package.json" failed: Connection timed out after 300643 milliseconds

@@ -1,0 +1,37 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "info@himdek.com",
+                "Name": "Himprakash Deka"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "Description": "A global theme for KDE Plasma 6 in Dark Nordic colors with transparency, blur and rounded corners for UI elements",
+        "EnabledByDefault": true,
+        "Id": "Utterly-Nord",
+        "License": "GPL-2.0+",
+        "Name": "Utterly Nord",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "3.2",
+        "Website": "www.himdek.com/Utterly-Nord-Plasma"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2132512",
+        "kns://colorschemes.knsrc/api.kde-look.org/1903937",
+        "kns://icons.knsrc/api.kde-look.org/1359276",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1901768",
+        "kns://plasmoids.knsrc/api.kde-look.org/2115883",
+        "kns://plasmoids.knsrc/api.kde-look.org/2151931",
+        "kns://plasmoids.knsrc/api.kde-look.org/2129423",
+        "kns://plasmoids.knsrc/api.kde-look.org/2136505",
+        "kns://plasmoids.knsrc/api.kde-look.org/2132554",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1909606",
+        "kns://wallpaper.knsrc/api.kde-look.org/1904144",
+        "kns://xcursor.knsrc/api.kde-look.org/1662218"
+    ]
+
+}

@@ -1,0 +1,199 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=#261c26
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=
+IntensityAmount=0
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=#150b15
+ColorAmount=0.025
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=117,88,174
+BackgroundNormal=#322731
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=#a08a9e
+ForegroundLink=209,199,242
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#ffb68c
+ForegroundNormal=#efdeea
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Complementary]
+BackgroundAlternate=#191019
+BackgroundNormal=#261c26
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=#a08a9e
+ForegroundLink=209,199,242
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#ffb68c
+ForegroundNormal=#d8bfd5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Header]
+BackgroundAlternate=#261c26
+BackgroundNormal=#261c26
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=#a08a9e
+ForegroundLink=209,199,242
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#ffb68c
+ForegroundNormal=#d8bfd5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Header][Inactive]
+BackgroundAlternate=#261c26
+BackgroundNormal=#261c26
+DecorationFocus=#bac3ff
+DecorationHover=#bac3ff
+ForegroundActive=#efdeea
+ForegroundInactive=#a08a9e
+ForegroundLink=#92ccff
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#ffb68c
+ForegroundNormal=#d8bfd5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Selection]
+BackgroundAlternate=109,81,167
+BackgroundNormal=109,81,167
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=255,255,255
+ForegroundLink=118,54,221
+ForegroundNegative=#920023
+ForegroundNeutral=#753400
+ForegroundNormal=255,255,255
+ForegroundPositive=#005228
+ForegroundVisited=#74009f
+
+[Colors:Tooltip]
+BackgroundAlternate=#523e51
+BackgroundNormal=#261c26
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=#a08a9e
+ForegroundLink=209,199,242
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#ffb68c
+ForegroundNormal=#efdeea
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:View]
+BackgroundAlternate=#261c26
+BackgroundNormal=#191019
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=#a08a9e
+ForegroundLink=146,110,228
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#ffb68c
+ForegroundNormal=#efdeea
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[Colors:Window]
+BackgroundAlternate=#523e51
+BackgroundNormal=#261c26
+DecorationFocus=146,110,228
+DecorationHover=146,110,228
+ForegroundActive=146,110,228
+ForegroundInactive=#a08a9e
+ForegroundLink=209,199,242
+ForegroundNegative=#ffb3b4
+ForegroundNeutral=#ffb68c
+ForegroundNormal=#d8bfd5
+ForegroundPositive=#00e479
+ForegroundVisited=#ebb2ff
+
+[DirSelect Dialog]
+DirSelectDialog Size=847,584
+History Items[$e]=file:$HOME/Colloid-kde/Kvantum,file:$HOME/Colloid-kde,file:$HOME/Downloads/Scratchy,file:$HOME,file:$HOME/Downloads/Utterly-Nord,file:$HOME/Downloads/Utterly-Nord,file:$HOME/Downloads/Utterly-Nord/contents,file:$HOME/Downloads/Utterly-Nord,file:$HOME/Downloads/Scratchy,file:$HOME/Downloads,file:$HOME/Colloid-kde/Kvantum/ColloidNord,file:$HOME/Colloid-kde/Kvantum/Colloid,file:$HOME/Colloid-kde/Kvantum,file:$HOME/Colloid-kde,file:///run/media/kupi/Tài Liệu Học Tập/HSR,file:$HOME/.local/share/Steam/,file:$HOME/.local/share/Steam/steamapps,file:$HOME/.local/share/Steam/steamapps/,file:$HOME/.local/share/Steam/steamapps/common/wallpaper_engine/,file:$HOME/.local/share/Steam/steamapps,file:$HOME/.local/share/Steam/steamapps/common/wallpaper_engine/,file:$HOME/.local/share/Steam/steamapps/common/wallpaper_engine/,file:$HOME/.local/share/Steam/steamapps/common/wallpaper_engine/assets/,file:$HOME/.local/share/Steam/steamapps/common/wallpaper_engine/assets/,file:$HOME/.local/share/Steam/steamapps/common/wallpaper_engine/,file:$HOME,file:$HOME/.local/share/Steam/steamapps/common/wallpaper_engine/,file:$HOME/Downloads/_Themes/Dracula/Kvantum/Dracula-Solid,file:$HOME/Downloads/_Themes/Dracula/Kvantum,file:///mnt/HDD/Videos/Anime,file:$HOME/Downloads/_Themes/Nordic/Nordic-Darker-Solid,file:$HOME/Downloads/_Themes/Moe/MoeDark,file:///mnt/HDD/Downloads/Music,file:$HOME/.themes/Inverse-dark/,file:$HOME/.themes/,file:///run/media/marc/HDD/Videos/Anime
+
+[General]
+BrowserApplication=firefox.desktop
+ColorScheme=MaterialYouDark
+ColorSchemeHash=ee4ae84224d97498c8f2934ab88e560d41effd98
+Name=Breeze Dark
+XftHintStyle=hintslight
+XftSubPixel=rgb
+font=SF Pro Text,10,-1,5,50,0,0,0,0,0
+menuFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
+shadeSortColumn=true
+smallestReadableFont=SF Pro Text,8,-1,5,50,0,0,0,0,0
+toolBarFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
+
+[Icons]
+Theme=Colloid-Pink
+
+[KDE]
+AnimationDurationFactor=0
+LookAndFeelPackage=com.github.vinceliuice.Layan
+contrast=4
+widgetStyle=Breeze
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=138
+View Style=Simple
+
+[KScreen]
+ScreenScaleFactors=eDP-1=1;
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[WM]
+activeBackground=60,49,59
+activeBlend=252,252,252
+activeFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
+activeForeground=239,222,234
+frame=156,141,121
+inactiveBackground=55,66,128
+inactiveBlend=161,169,177
+inactiveForeground=219,221,252
+inactiveFrame=54,36,23

@@ -1,0 +1,33 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "gicalucejo@gmail.com",
+                "Name": "jomada"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Scratchy",
+        "Description": "Scratchy Desktop Design",
+        "Id": "Scratchy",
+        "Version": "1.8",
+        "License": "GPL 3+",
+        "Website": "https://seduccionlinux.wordpress.com",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+        "X-Plasma-APIVersion": "2"
+    },
+     "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1896006",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1896013",
+        "kns://aurorae.knsrc/api.kde-look.org/1896009",
+        "kns://wallpaper.knsrc/api.kde-look.org/2055751",
+        "kns://wallpaper.knsrc/api.kde-look.org/1896012",
+        "kns://wallpaper.knsrc/api.kde-look.org/2214972",
+        "kns://xcursor.knsrc/api.kde-look.org/1411743"
+    ]
+}

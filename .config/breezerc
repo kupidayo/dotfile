@@ -1,0 +1,7 @@
+[Common]
+OutlineIntensity=OutlineOff
+ShadowColor=255,170,255
+ShadowSize=ShadowSmall
+
+[Style]
+MenuOpacity=0

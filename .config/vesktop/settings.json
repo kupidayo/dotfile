@@ -1,0 +1,7 @@
+{
+    "discordBranch": "stable",
+    "minimizeToTray": true,
+    "arRPC": true,
+    "splashColor": "oklab(0.911154 0.00612085 -0.00110363)",
+    "splashBackground": "oklab(0.259614 0.0161581 0.00295399)"
+}

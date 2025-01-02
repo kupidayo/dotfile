@@ -1,0 +1,10 @@
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/kupi/Downloads/rice sc/pic 3.png
+lastImageSaveLocation=file:///home/kupi/Downloads/rice sc/pic 3.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

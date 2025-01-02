@@ -1,0 +1,10 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/.themes/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled

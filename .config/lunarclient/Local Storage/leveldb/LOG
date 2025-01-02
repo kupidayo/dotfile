@@ -1,0 +1,6 @@
+2024/12/31-18:54:42.217 29e1 Reusing MANIFEST /home/kupi/.config/lunarclient/Local Storage/leveldb/MANIFEST-000001
+2024/12/31-18:54:42.217 29e1 Recovering log #3
+2024/12/31-18:54:42.217 29e1 Reusing old log /home/kupi/.config/lunarclient/Local Storage/leveldb/000003.log 
+2024/12/31-19:32:21.742 261f Level-0 table #5: started
+2024/12/31-19:32:21.747 261f Level-0 table #5: 16291 bytes OK
+2024/12/31-19:32:21.750 261f Delete type=0 #3

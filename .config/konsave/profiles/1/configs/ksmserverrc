@@ -1,0 +1,15 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=104c4f510000173566205300000010600006
+clientId2=104c4f510000173566362400000224130003
+count=2
+program1=firefox
+program2=/tmp/.mount_Nextcl13CrC4/AppRun.wrapped
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,104c4f510000173566205300000010600006
+restartCommand2=/tmp/.mount_Nextcl13CrC4/AppRun.wrapped,-session,104c4f510000173566362400000224130003_1735664699_704047,-name,AppRun.wrapped
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=kupi
+userId2=kupi

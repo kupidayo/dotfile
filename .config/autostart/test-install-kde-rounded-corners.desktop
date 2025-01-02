@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=sh /home/kupi/Colloid-icon-theme/catppuccin-kde/KDE-Rounded-Corners/tools/test-install.sh
+GenericName=
+MimeType=
+Name=Test & Install KDE-Rounded-Corners
+NoDisplay=false
+Path=/home/kupi/Colloid-icon-theme/catppuccin-kde/KDE-Rounded-Corners/build/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

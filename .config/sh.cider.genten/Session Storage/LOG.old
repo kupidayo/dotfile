@@ -1,0 +1,6 @@
+2025/01/01-15:25:50.497 cbfc Reusing MANIFEST /home/kupi/.config/sh.cider.genten/Session Storage/MANIFEST-000001
+2025/01/01-15:25:50.498 cbfc Recovering log #26
+2025/01/01-15:25:50.498 cbfc Reusing old log /home/kupi/.config/sh.cider.genten/Session Storage/000026.log 
+2025/01/01-15:26:50.500 cbfd Level-0 table #30: started
+2025/01/01-15:26:50.504 cbfd Level-0 table #30: 32065 bytes OK
+2025/01/01-15:26:50.507 cbfd Delete type=0 #26
