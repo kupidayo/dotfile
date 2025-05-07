@@ -1,7 +1,0 @@
-chromeFlags: []
-forceSteamDeck: false
-enableTrayIcon: true
-linux:
-  useMpris: true
-macos:
-  enableVibrancy: true

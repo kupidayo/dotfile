@@ -1,6 +1,0 @@
-2025/01/01-15:25:50.271 cbfc Reusing MANIFEST /home/kupi/.config/sh.cider.genten/Local Storage/leveldb/MANIFEST-000001
-2025/01/01-15:25:50.302 cbfc Recovering log #4
-2025/01/01-15:25:50.303 cbfc Reusing old log /home/kupi/.config/sh.cider.genten/Local Storage/leveldb/000004.log 
-2025/01/01-17:49:52.204 cbfc Level-0 table #8: started
-2025/01/01-17:49:52.208 cbfc Level-0 table #8: 22222 bytes OK
-2025/01/01-17:49:52.211 cbfc Delete type=0 #4
